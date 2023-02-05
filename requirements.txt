@@ -1,0 +1,7 @@
+ipywidgets==7.5.1
+tokenizers==0.10.3
+transformers==4.6.0
+msticpy==2.2.0
+nltk==3.6.2
+iocextract==1.13.1
+shap==0.41.0
